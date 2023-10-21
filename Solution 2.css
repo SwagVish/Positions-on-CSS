@@ -1,0 +1,16 @@
+th{
+    background-color: black;
+    color: darkgoldenrod;
+    border: 1px solid;
+    font-family:sans-serif;
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid;
+}
+td{
+    border: 1px solid;
+    background-color:aliceblue;
+    height: 60px;
+}
